@@ -23,7 +23,7 @@ class Crate(object):
         self.uniqueDrinks.append(Bottle('APA',20,'Öl'))
         self.uniqueDrinks.append(Bottle('IPA',20,'Öl'))
         self.uniqueDrinks.append(Bottle('Julmust',10,'Läsk'))
-        self.uniqueDrinks.append(Bottle('Zingo',10,'Läsk'))
+        self.uniqueDrinks.append(Bottle('Bingo',10,'Läsk'))
         self.uniqueDrinks.append(Bottle('Ramlösa',10,'Vatten'))
 
     def Run(self):
